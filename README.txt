@@ -5,4 +5,5 @@ No admin permissions needed
 I would say this tool is pretty cool ngl
 
 
-Oh yeah also i give anyone the permission to download,use,change and do whatever they want with the .vbs script
+Oh yeah also i give anyone the permission to download,use,change and do whatever they want with the .vbs script,read the license for more info.
+
